@@ -1,1 +1,1 @@
-# just-fishing
+# ПростоРыбалка / JustFishing
