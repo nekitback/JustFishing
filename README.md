@@ -1,5 +1,5 @@
 <h3 align="center"> ПростоРыбалка [RU] / JustFishing [EN]</h3>
-<h3 align="center"> <img src="https://github.com/nekitback/JustFishing/assets/101795897/df815b97-b43c-4e10-8600-5c94cd1aa06a" width="300"></h3>
+<h3 align="center"> <img src="https://github.com/nekitback/JustFishing/assets/101795897/df815b97-b43c-4e10-8600-5c94cd1aa06a" width="250"></h3>
 <h3 align="center">[RU]</h3>
 <h3 align="center">Политика конфиденциальности</h3>
 <p align="center">
